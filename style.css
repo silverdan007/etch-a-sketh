@@ -1,0 +1,26 @@
+body{
+    background-color: aliceblue;
+}
+.container{
+    margin: 0 auto;
+    display: flex;
+    background-color: aqua;
+    width: 965px;
+    height: 965px;
+    flex-wrap: wrap;
+}
+.pixel{
+    background-color:whitesmoke;
+}
+.hovered{
+    opacity: 0.1;
+}
+#btn{
+    text-align: center;
+    margin-bottom: 10px ;
+}
+.btn{
+    padding: 0px 20px;
+    background-color: azure;
+    height: 40px;
+}
